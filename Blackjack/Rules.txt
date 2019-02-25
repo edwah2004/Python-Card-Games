@@ -1,1 +1,32 @@
 Blackjack Rules:
+
+Card Values
+When playing Blackjack the numeral cards 2 to 10 have their face values, Jacks, Queens and Kings are valued at 10, and Aces can have a value of either 1 or 11. The Ace is always valued at 11 unless that would result in the hand going over 21, in which case it is valued as 1.
+
+Any hand with an Ace valued as 11 is called a ‘soft’ hand. All other hands are ‘hard’ hands.
+
+A starting hand of a 10 valued card and an Ace is called a Blackjack or natural and beats all hands other than another Blackjack. If both the player and dealer have Blackjack, the result is a push (tie): neither the player nor the bank wins and the bet is returned to the player.
+
+Order of Play and Playing Options
+Example game
+Blackjack deal
+This shows the table after the initial bets have been placed and the cards have been dealt.
+double down
+This player originally bet 200 units (two black chips) was dealt a total of 11 (6+5) and doubled down, betting another 200. They were then dealt a King for a total of 21, which will win unless the dealer also makes 21.
+split sixes
+This player has split a pair of Sixes and received an Six and an Ace, and then split the new pair of Sixes receiving a Five and a Jack and creating three hands. The player has doubled down on the 6+5 hand but unfortunately received only a 2 as the third card for this hand.
+dealer is bust
+Here the deal ends with the dealer bust, so the dealer has paid out on all the unbust hands belonging to the players.
+Each player sitting at the table places their desired bet in the betting circle directly in front of them. In most casinos if there are untaken betting circles, the players sitting at the table can choose to play more than one hand at a time. The minimum and maximum bet size varies from casino to casino, generally with a ratio of 40 to 100 between them. For example with a $25 minimum bet the maximum will usually be somewhere from $1000 to $2500. Once the bets are placed the dealer will move their hand across the table from their left to their right signalling that no further bets can be placed. The dealer then deals cards one at a time clockwise around the table, from the dealer's left to the dealer's right: first a card face up to each betting circle that has a bet in it, then a card face up to the dealer, and then a second card face up to each betting circle with a bet and finally a second card face down to the dealer.
+
+In many places the dealer's first card is initially dealt face down. The dealer's second card is used to flip the first card face up and then slid underneath the first card. The exact dealing protocol varies from place to place as determined by the casino management.
+
+If the dealer has a 10 or an Ace face up players are offered the option to place an Insurance bet. If a player chooses to take insurance they place an additional bet equal to half of their original bet. This insurance bet wins if the dealer has Blackjack.
+
+The dealer now checks their down card to see if they have Blackjack. If they have Blackjack they expose their down card. The round is concluded and all players lose their original bet unless they also have Blackjack. If a player and the dealer each have Blackjack the result is a push and the player's bet is returned. Any insurance bets are paid out at 2:1.
+
+If the dealer does not have Blackjack any insurance bets are lost and any players who have Blackjack are paid. It is then the turn of the remaining players to take their actions. Starting with the player sitting furthest to dealer's left they have the following options:
+
+Stand – If the player is happy with the total they’ve been dealt they can stand, taking no further action and passing to the next player. The player can take this action after any of the other player actions as long as their hand total is not more than 21. The hand signal to Stand is waving a flat hand over the cards.
+
+Hit – If the player wishes to take another card they signal to the dealer to by scratching the felt beside their hand or pointing to their hand. A single card is then played face up onto their hand. If the hand total is less than 21 the player can choose to Hit again or Stand. If the total is 21 the hand automatically stands. If the total is over 21 the hand is bust, the player’s bet is taken by the house and the turn to act passes to the next player.
